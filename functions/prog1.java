@@ -1,4 +1,4 @@
-// Print Hello World Using function printHelloWorld
+// Print Hello World Using function .
 
 public class prog1 {
 
