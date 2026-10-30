@@ -1,3 +1,5 @@
+//Average of 3 numbers from user input
+
 import java.util.*;
 public class average {
     public static void main(String[] args) {

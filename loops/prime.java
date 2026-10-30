@@ -1,3 +1,5 @@
+//Print a number is prime or not by user input
+
 import java.util.*;
 
 public class prime {

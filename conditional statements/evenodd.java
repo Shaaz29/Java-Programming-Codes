@@ -1,3 +1,5 @@
+//User enters a number : print the number is odd or even.
+
 import java.util.*;
 
 public class evenodd {

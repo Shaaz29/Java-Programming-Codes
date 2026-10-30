@@ -1,3 +1,5 @@
+// Program to Print Reverse of a number by user input
+
 import java.util.*;
 public class reverse {
     public static void main(String[] args) {

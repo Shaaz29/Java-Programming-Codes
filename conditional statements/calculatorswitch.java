@@ -1,3 +1,5 @@
+//Build a Calculator that performs Addition, Subtraction, Multiplication, Division and Modulo
+
 import java.util.*;
 
 public class calculatorswitch {

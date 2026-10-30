@@ -1,3 +1,15 @@
+//Print this pattern of numbers: 
+/*
+
+1
+12
+123
+1234
+
+*/
+
+
+
 import java.util.*;
 
 public class ques3 {

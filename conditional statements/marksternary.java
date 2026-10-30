@@ -1,3 +1,5 @@
+//Use ternary operator toprint whether student is pass or fail.
+
 import java.util.*;
 
 public class marksternary {

@@ -1,3 +1,14 @@
+//Print this pattern of characters: 
+/*
+
+A
+BC
+DEF
+GHIJ
+
+*/
+
+
 import java.util.*;
 
 public class ques4 {

@@ -1,3 +1,16 @@
+//Print this pattern of stars: 
+/*
+
+****
+***
+**
+*
+
+*/
+
+
+
+
 import java.util.*;
 
 public class ques2 {
