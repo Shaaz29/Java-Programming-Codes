@@ -2,7 +2,7 @@
 // Example of Function Overloading: 
 
 
-public class funOveerloading {
+public class funOverloading {
     //function to calculate sum of two numbers:
     public static int sum(int a,int b){
         return a+b;
